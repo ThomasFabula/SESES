@@ -32,7 +32,7 @@ SEmiconductor SEnsor Simulation User Course
 - Übung III : Nichtlineare Probleme
  
 ## Publications
-- A micro electro mechanical CAD extension for SESES, H U Schwarzenbach et al 1993 J. Micromech. Microeng. 3 118
+- A micro electro mechanical CAD extension for SESES, H U Schwarzenbach et al 1993 J. Micromech. Microeng. 3 118, https://iopscience.iop.org/article/10.1088/0960-1317/3/3/006/pdf
 - An implementation of the adaptive finite element method for semiconductor sensor simulation, Korvink, Jan Gerrit; Baltes, Henry (1993), Doctoral Thesis, ETH Zürich Bibliographie, DOI: www.research-collection.ethz.ch/handle/20.500.11850/141261
 - Multiphysics Software SESES, Manual & Tutorial: www.zhaw.ch/de/engineering/institute-zentren/icp/multiphysik-modellierung/seses/
 

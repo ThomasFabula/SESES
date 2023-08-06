@@ -10,8 +10,7 @@ Semiconductor Sensor Simulation
 - Magnetischer Flusskonzentrator für Hall Sensoren, Dipl.-Ing. H. Lechner
 - Vertical Hall Sensoren, Dr. M. Roos
 - Simulation von Magnetfeld-Sensoren, Dr. J.F. Buergler
-- Teilnehmerthema: Hahn-Schickard-Institut, VS-Villingen, Deutschland:
-- Entwurf und Auslegung mikromechanischer Strukturen, Dipl.-Phys. Thomas Fabula
+- Teilnehmerthema: Hahn-Schickard-Institut, VS-Villingen, Deutschland: Entwurf und Auslegung mikromechanischer Strukturen, Dipl.-Phys. Thomas Fabula
 - HW/SW-Infrastruktur für Simulationen am Beispiel eines horizontalen Hallsensors, Dipl.-Phys. G. Sartoris
 - Optisch ausgelesener Drucksensor, Dr. M. Roos
 

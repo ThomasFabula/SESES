@@ -1,5 +1,5 @@
 # SESES   
-Semiconductor Sensor Simulation 
+SEmiconductor SEnsor Simulation 
 
 ## ETH Zürich
 1st Industry-University-Workshop on Numerical Modelling and Simulation of Sensors

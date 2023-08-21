@@ -15,9 +15,9 @@ SEmiconductor SEnsor Simulation
 - Optisch ausgelesener Drucksensor, Dr. M. Roos
 
 ## Sponsoring Organisations
-- ETH – Swiss Federal Institute of Technology
-- NM – Numerical Modelling GmbH
-- L&G – Landis and Gyr Technology Innovation Management
+- ETH – Swiss Federal Institute of Technology -- https://ethz.ch/
+- NM – Numerical Modelling GmbH -- http://www.nmtec.ch/
+- L&G – Landis and Gyr Technology Innovation Management -- https://www.landisgyr.de/
 
 ## SESES
 SEmiconductor SEnsor Simulation User Course

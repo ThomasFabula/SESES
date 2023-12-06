@@ -15,12 +15,12 @@ SEmiconductor SEnsor Simulation
 - Optisch ausgelesener Drucksensor, Dr. M. Roos
 
 ## Sponsoring Organisations
-- ETH – Swiss Federal Institute of Technology -- https://ethz.ch/
-- NM – Numerical Modelling GmbH -- http://www.nmtec.ch/
-- L&G – Landis and Gyr Technology Innovation Management -- https://www.landisgyr.de/
+- ETH – Swiss Federal Institute of Technology - https://ethz.ch/
+- NM – Numerical Modelling GmbH - http://www.nmtec.ch/
+- L&G – Landis and Gyr Technology Innovation Management - https://www.landisgyr.de/
 
 ## SESES
-SEmiconductor SEnsor Simulation User Course
+### SEmiconductor SEnsor Simulation User Course
 - Die Methode der Finiten Elemente, Dr. H. Ungericht
 - Funktionsweise von SESES, Dipl.-Phys. G. Sartoris
 - Problembeschreibung, Initial-, Bulk-Files, Dipl.-Ing. J. Korvink
